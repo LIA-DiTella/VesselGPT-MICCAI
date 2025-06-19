@@ -1,0 +1,2 @@
+Total number of parameters: 100856871
+Epoch [1/500000], Total Loss: 4.0530, Rec Loss: 0.18852, Quant Loss: 3.86448, Perplexity: 0.0000, Learning Rate: 0.000100

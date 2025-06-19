@@ -1,0 +1,7 @@
+/datasets
+/models
+/2024
+/wandb
+/Etapa1/modelos-entrenados/aneurisk-limpio-splines.pth
+/Aneux/models
+*.pth

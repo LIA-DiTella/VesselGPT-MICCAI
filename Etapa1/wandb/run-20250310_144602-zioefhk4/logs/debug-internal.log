@@ -1,0 +1,12 @@
+{"time":"2025-03-10T14:46:02.6032189-03:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\lab03\\Documents\\MultiTalk-vessel\\Clean\\wandb\\run-20250310_144602-zioefhk4\\logs\\debug-core.log"}
+{"time":"2025-03-10T14:46:02.9051736-03:00","level":"INFO","msg":"created new stream","id":"zioefhk4"}
+{"time":"2025-03-10T14:46:02.9071545-03:00","level":"INFO","msg":"stream: started","id":"zioefhk4"}
+{"time":"2025-03-10T14:46:02.906638-03:00","level":"INFO","msg":"handler: started","stream_id":"zioefhk4"}
+{"time":"2025-03-10T14:46:02.9081837-03:00","level":"INFO","msg":"sender: started","stream_id":"zioefhk4"}
+{"time":"2025-03-10T14:46:02.9081837-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"zioefhk4"}
+{"time":"2025-03-10T14:46:03.2473845-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T14:46:03.4522567-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-10T14:46:05.8330197-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-10T14:46:05.834471-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-10T14:46:09.14039-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-10T14:47:48.2265224-03:00","level":"INFO","msg":"Pausing system monitor"}

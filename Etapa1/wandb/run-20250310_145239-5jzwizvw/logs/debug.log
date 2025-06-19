@@ -1,0 +1,33 @@
+2025-03-10 14:52:39,090 INFO    MainThread:7776 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:52:39,090 INFO    MainThread:7776 [wandb_setup.py:_flush():67] Configure stats pid to 7776
+2025-03-10 14:52:39,090 INFO    MainThread:7776 [wandb_setup.py:_flush():67] Loading settings from C:\Users\lab03\.config\wandb\settings
+2025-03-10 14:52:39,090 INFO    MainThread:7776 [wandb_setup.py:_flush():67] Loading settings from c:\Users\lab03\Documents\submissionGPT\MultiTalk-vessel\Clean\wandb\settings
+2025-03-10 14:52:39,102 INFO    MainThread:7776 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:52:39,102 INFO    MainThread:7776 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\lab03\Documents\submissionGPT\MultiTalk-vessel\Clean\wandb\run-20250310_145239-5jzwizvw\logs\debug.log
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\lab03\Documents\submissionGPT\MultiTalk-vessel\Clean\wandb\run-20250310_145239-5jzwizvw\logs\debug-internal.log
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001EE125B46D0>
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'quant_loss_weight': 1.0, 'in_dim': 39, 'hidden_size': 1024, 'num_hidden_layers': 6, 'num_attention_heads': 8, 'intermediate_size': 1536, 'window_size': 1, 'quant_factor': 0, 'face_quan_num': 16, 'neg': 0.2, 'INaffine': False, 'n_embed': 256, 'zquant_dim': 64, 'use_sgd': False, 'sync_bn': False, 'train_gpu': [0], 'workers': 10, 'batch_size': 1, 'batch_size_val': 1, 'base_lr': 0.0001, 'StepLR': True, 'warmup_steps': 1, 'adaptive_lr': False, 'factor': 0.3, 'patience': 3, 'threshold': 0.0001, 'poly_lr': False, 'epochs': 200, 'step_size': 200, 'gamma': 0.9, 'start_epoch': 0, 'power': 0.9, 'momentum': 0.9, 'weight_decay': 0.002, 'manual_seed': 131, 'device': 'cuda', 'dataset': 'BIWI', 'wav2vec2model_path': 'path/to/wav2vec2model', 'feature_dim': 1024, 'vertice_dim': 31, 'n_head': 8, 'num_layers': 6, 'period': 2, 'vqvae_pretrained_path': 'modelos-entrenados/fast-bee.pth', 'train_subjects': 'subject1 subject2 subject3', 'motion_weight': 1.0, 'reg_weight': 0.1, 'gpu': 0, '_wandb': {}}
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:init():784] starting backend
+2025-03-10 14:52:39,103 INFO    MainThread:7776 [wandb_init.py:init():788] sending inform_init request
+2025-03-10 14:52:39,117 INFO    MainThread:7776 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-10 14:52:39,117 INFO    MainThread:7776 [wandb_init.py:init():803] backend started and connected
+2025-03-10 14:52:39,123 INFO    MainThread:7776 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-10 14:52:39,125 INFO    MainThread:7776 [wandb_init.py:init():896] updated telemetry
+2025-03-10 14:52:39,156 INFO    MainThread:7776 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-10 14:52:39,534 INFO    MainThread:7776 [wandb_init.py:init():995] starting run threads in backend
+2025-03-10 14:52:39,718 INFO    MainThread:7776 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-10 14:52:39,718 INFO    MainThread:7776 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-10 14:52:39,718 INFO    MainThread:7776 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-10 14:52:39,719 INFO    MainThread:7776 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-10 14:52:39,720 INFO    MainThread:7776 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-10 14:52:39,720 INFO    MainThread:7776 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 14:52:39,720 INFO    MainThread:7776 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-10 14:52:39,737 INFO    MainThread:7776 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-10 14:52:39,738 INFO    MainThread:7776 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 14:52:39,738 INFO    MainThread:7776 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-10 14:52:39,743 INFO    MainThread:7776 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-10 14:52:40,781 INFO    MainThread:7776 [wandb_watch.py:_watch():71] Watching
+2025-03-10 14:53:42,771 INFO    MainThread:7776 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 14:53:42,771 INFO    MainThread:7776 [wandb_init.py:_pause_backend():564] pausing backend
