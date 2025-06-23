@@ -33,9 +33,9 @@ Follow these steps to preprocess the data, train the model, and generate new vas
 
     -datasets.ipynb includes utilities to:
 
-        -Move tree roots to the origin
+    *Move tree roots to the origin
 
-        -Apply data augmentation via random rotations
+    *Apply data augmentation via random rotations
 
 2. Train Stage 1 (VQ-VAE)
 
