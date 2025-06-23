@@ -7,10 +7,10 @@ from pathlib import Path
 
 import os
 import numpy as np
-import Etapa1.modelsMultitalk.stage1_vocaset as models
-from Etapa1.modelsMultitalk.stage1_vocaset import VQAutoEncoder
-from Etapa1.metrics.loss import calc_vq_loss
-from Etapa1.base.utilities import AverageMeter
+import Stage1.modelsMultitalk.stage1_vocaset as models
+from Stage1.modelsMultitalk.stage1_vocaset import VQAutoEncoder
+from Stage1.metrics.loss import calc_vq_loss
+from Stage1.base.utilities import AverageMeter
 
 class Args:
     def __init__(self):

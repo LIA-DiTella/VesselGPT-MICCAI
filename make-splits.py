@@ -4,7 +4,7 @@ from pathlib import Path
 from sklearn.model_selection import train_test_split
 
 # Path to folder with all the files
-data_dir = Path("C:/Users/lab03/Documents/VesselGPTClean/Datos/Aneux+Intra-splines")
+data_dir = Path("C:/")
 all_files = list(data_dir.glob("*.npy"))
 
 # Separate by source
