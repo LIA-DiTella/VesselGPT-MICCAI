@@ -78,6 +78,6 @@ If you find this work useful, please consider citing us:
 
 📬 Contact
 
-For questions or issues, reach out to: 📧 paula.feldman@conicet.gov.ar
+For questions or issues, reach out to: 📧 paulafeldman@conicet.gov.ar
 
-<p align="center"> <img src="assets/miccai2025-logo.png" alt="MICCAI 2025" width="100"/> </p> ```
+<p align="center"> <img src="assets/miccai2025-logo.png" alt="MICCAI 2025" width="300"/> </p> 
